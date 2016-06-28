@@ -1,0 +1,413 @@
+[33mcommit dc1d8699cc0a06fed594e018654c8774ed8f9551[m
+Author: Monica Kottapally <mkot29@gmail.com>
+Date:   Tue Jun 28 19:21:14 2016 +0000
+
+    Done.
+
+[33mcommit c4ec98d1409e385814f8fb93b567f275766a510f[m
+Author: Charles Pletcher <pletcher@users.noreply.github.com>
+Date:   Mon Jun 6 17:18:03 2016 -0400
+
+    Update README.md
+    
+    Remove unnecessary links
+
+[33mcommit 8f907353e09c039594db44181d04e945cbe3d610[m
+Merge: 53e2998 792837d
+Author: Charles Pletcher <pletcher@users.noreply.github.com>
+Date:   Mon Jun 6 17:17:15 2016 -0400
+
+    Merge pull request #23 from howardbdev/howardbdev-1463255342
+    
+    "Change CSS example code from 'border-top-color' to 'color' to match comments"
+
+[33mcommit 53e2998538b28192df5f4e6ad95b6e69b0318f22[m
+Merge: fda96d6 6d479ad
+Author: Charles Pletcher <pletcher@users.noreply.github.com>
+Date:   Mon Jun 6 17:17:01 2016 -0400
+
+    Merge pull request #24 from howardbdev/howardbdev-1463256813
+    
+    "Clarify hex color shortened syntax use"
+
+[33mcommit 6d479adf24e87e50a46492407f6271e0f3f45a5a[m
+Author: Howard <howarddevennish@gmail.com>
+Date:   Sat May 14 16:13:33 2016 -0400
+
+    "Clarify hex color shortened syntax use"
+
+[33mcommit 792837d5b8f040024efeced8aca3d1220ceef2ce[m
+Author: Howard <howarddevennish@gmail.com>
+Date:   Sat May 14 15:49:02 2016 -0400
+
+    "Change CSS example code from 'border-top-color' to 'color' to match comments"
+
+[33mcommit fda96d692caa15fe7e129bb981f6dd25f4a9fdba[m
+Author: Charles Pletcher <cpletcher2@gmail.com>
+Date:   Fri Mar 18 16:34:20 2016 -0400
+
+    Revert "add new tests"
+    
+    This reverts commit d72d90b013c309f35618164242e58fefb5bb3278.
+
+[33mcommit d72d90b013c309f35618164242e58fefb5bb3278[m
+Author: jongrover <hello@jonathangrover.com>
+Date:   Tue Mar 15 16:36:23 2016 -0400
+
+    add new tests
+
+[33mcommit 7167b8916018e1a2bbc5589c572ec502a780d765[m
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Mon Mar 14 15:27:05 2016 -0400
+
+    typos
+
+[33mcommit a15794e97fdfc75dd29b90f9bbc8dc4d5be11663[m
+Author: vicfriedman <victoria.m.friedman@gmail.com>
+Date:   Thu Mar 10 15:13:42 2016 -0500
+
+    typs
+
+[33mcommit 94426affd41e44c299f154621be71fc34610b018[m
+Merge: 17e1d66 55b28ce
+Author: Victoria Friedman <victoria.m.friedman@gmail.com>
+Date:   Thu Mar 10 15:12:32 2016 -0500
+
+    Merge pull request #20 from bwitka/bwitka-1457396898
+    
+    Correct spelling of "separate".
+
+[33mcommit 55b28cea5c4b74f0195eac4ff80b7ec09e4f9cc4[m
+Author: Beau Witka <bwitka@users.noreply.github.com>
+Date:   Mon Mar 7 16:28:19 2016 -0800
+
+    Correct spelling of "separate".
+
+[33mcommit 17e1d665f93ad04388607405ef6b4d5eddfe6f5a[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Fri Jan 29 11:06:54 2016 -0500
+
+    optimize learn link [processing skip]
+
+[33mcommit fe2ca4a1b7874577913171dcdeddca35994a0af0[m
+Author: vicfriedman <victoria.m.friedman@gmail.com>
+Date:   Fri Dec 18 17:03:44 2015 -0500
+
+    [processing skip]
+
+[33mcommit 3b9f0ec199420b50b79eee21dd83cbf2a0c1e0aa[m
+Merge: 7d5ed28 86c94e2
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Mon Dec 14 09:49:38 2015 -0500
+
+    Merge pull request #17 from preetdha/preetdha-1449956227
+    
+    Updated README.md
+
+[33mcommit 86c94e28d98e52bcaaff4850258d5e5b97db9b41[m
+Author: Preet Dha <manpreet.dha@gmail.com>
+Date:   Sat Dec 12 13:37:08 2015 -0800
+
+    Updated README.md
+
+[33mcommit 7d5ed28a0aec7b8313aceb903cfa0cbb717e2ee4[m
+Author: Adam Jonas <jonas@flatironschool.com>
+Date:   Wed Dec 2 12:50:32 2015 -0500
+
+    add learn link [processing skip]
+
+[33mcommit 3550298da39490c5b9b610017331c59d68904b7c[m
+Merge: 5c5c04e 4021ace
+Author: Deniz Unat <deniznida@users.noreply.github.com>
+Date:   Tue Dec 1 16:24:18 2015 -0500
+
+    Merge pull request #15 from imkaruna/imkaruna-1448425965
+    
+    Updated README.md
+
+[33mcommit 5c5c04eecb4a5f2f0694f925c17cfeb7b828233c[m
+Merge: 03d869a 918f5be
+Author: Deniz Unat <deniznida@users.noreply.github.com>
+Date:   Tue Dec 1 16:24:08 2015 -0500
+
+    Merge pull request #14 from Shmuwol/Shmuwol-1448419121
+    
+    fix spelling typo
+
+[33mcommit 4021ace2e0f7f05b178e39e36c0c608658d41b92[m
+Author: Karuna <imkaruna@gmail.com>
+Date:   Tue Nov 24 23:32:46 2015 -0500
+
+    Updated README.md
+
+[33mcommit 918f5be719fd1ac63ee6c5bbb6899f216f3e7371[m
+Author: Shmully Wolfson <Shmuwol@users.noreply.github.com>
+Date:   Tue Nov 24 21:38:42 2015 -0500
+
+    fix spelling typo
+
+[33mcommit 03d869a7f309a37d2629f1da0bc4a8356b510113[m
+Author: Jonathan Grover <hello@jonathangrover.com>
+Date:   Mon Nov 23 16:13:44 2015 -0500
+
+    Solves Issue #5
+    
+    Remove text that incorrectly stated that border color is an inherited property.
+
+[33mcommit 4e92ef12fba9d8ec8a9dfda2384fa91d5f713e14[m
+Merge: 0eecf52 693d343
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Mon Nov 23 11:31:26 2015 -0500
+
+    Merge pull request #11 from morgvanny/morgvanny-1448143947
+    
+    switched link to correct repo
+
+[33mcommit 0eecf52f603ddd980e4eb3fc2d3f877c40f616ee[m
+Merge: c98910f cd63f72
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Mon Nov 23 11:31:21 2015 -0500
+
+    Merge pull request #8 from onyoo/onyoo-1446834837
+    
+    Broken link (404). Please verify my fix is the correct repo.
+
+[33mcommit c98910f71bb42369e62c1d04a64df6d005b6cf53[m
+Merge: ae84338 ffea9de
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Mon Nov 23 11:30:51 2015 -0500
+
+    Merge pull request #12 from morgvanny/morgvanny-1448145125
+    
+    Updated README.md
+
+[33mcommit ae843387020aa039cfd8b44d8a0b80ad922f6bbf[m
+Merge: cba1b05 9ab52c1
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Mon Nov 23 11:30:06 2015 -0500
+
+    Merge pull request #13 from morgvanny/morgvanny-1448145559
+    
+    Updated README.md
+
+[33mcommit 9ab52c1861c463c4b1d31eadd79486e6ff9c5891[m
+Author: Morgan VanYperen <morgvanny@gmail.com>
+Date:   Sat Nov 21 15:39:19 2015 -0700
+
+    Updated README.md
+
+[33mcommit ffea9de38a1be240316b4fa24ef6635795849755[m
+Author: Morgan VanYperen <morgvanny@gmail.com>
+Date:   Sat Nov 21 15:32:05 2015 -0700
+
+    Updated README.md
+
+[33mcommit 693d343a12fde407d76e539cd7f6b7774981469b[m
+Author: Morgan VanYperen <morgvanny@gmail.com>
+Date:   Sat Nov 21 15:12:28 2015 -0700
+
+    switched link to correct repo
+
+[33mcommit cba1b058248dfcff458098f3ae1c6290facc3667[m
+Merge: 92ad315 39dfec2
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Fri Nov 6 15:31:59 2015 -0500
+
+    Merge pull request #9 from onyoo/onyoo-1446836529
+    
+    Repeat word deleted.
+
+[33mcommit 39dfec29829018c4d5fb254d4db036fba4d0f617[m
+Author: Roberto <rob.rsocial@gmail.com>
+Date:   Fri Nov 6 20:02:09 2015 +0100
+
+    Repeat word deleted.
+
+[33mcommit cd63f72be652cc6eb278ab00f540f02e883cfce1[m
+Author: Roberto <rob.rsocial@gmail.com>
+Date:   Fri Nov 6 19:33:58 2015 +0100
+
+    Broken link (404). Please verify my fix is the correct repo.
+
+[33mcommit 92ad315bc05ea93669b205b3636b5c083498c29d[m
+Merge: 3b67702 79b9b7d
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Fri Sep 4 12:14:51 2015 -0400
+
+    Merge pull request #1 from joelehr/joelehr-1440551537
+    
+    Updated README.md
+
+[33mcommit 3b67702a869c3850e483d5a8c0f79b1b7e0e8573[m
+Merge: fc66b94 26ea755
+Author: AnnJohn <ann@flatironschool.com>
+Date:   Fri Sep 4 11:00:13 2015 -0400
+
+    Merge pull request #3 from asialindsay/asialindsay-1441097742
+    
+    Update punctuation mistake in README.md
+
+[33mcommit fc66b94ffdaba21136c92d41971b9e5f646c7421[m
+Author: Spencer Rogers <spencer1248@gmail.com>
+Date:   Tue Sep 1 16:54:37 2015 -0400
+
+    Add contributing instructions
+
+[33mcommit 26ea755486a3989ab67fa8c9a7947edc5e2a9287[m
+Author: asialindsay <asialindsay@gmail.com>
+Date:   Tue Sep 1 04:55:43 2015 -0400
+
+    Update punctuation mistake in README.md
+
+[33mcommit 79b9b7dec6b9275d0132b1a427299ea1309a76e5[m
+Author: joelehr <joelehr@users.noreply.github.com>
+Date:   Tue Aug 25 21:12:17 2015 -0400
+
+    Updated README.md
+
+[33mcommit a92c8bab949593f983eca1a6bd4b80ebedfab2ad[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Thu Aug 6 10:10:17 2015 -0400
+
+    Add content license
+
+[33mcommit c56953d6c63000035ed8d8fb013082958dc9ecea[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Wed Jul 29 10:39:25 2015 -0400
+
+    remove front matter
+
+[33mcommit ba962dbb975b607fabf2ad4257b7ed594ab8fe79[m
+Author: The Learn Team <labsmailertest@gmail.com>
+Date:   Tue Jul 28 16:31:31 2015 -0400
+
+    remove front matter
+
+[33mcommit f7c021146ab4b0b15fd26072febed08729cc6d14[m
+Author: Julia Taitz <juliataitz@gmail.com>
+Date:   Wed Jun 24 13:38:50 2015 -0400
+
+    Deleted whitespace
+
+[33mcommit a9c62e8eff93d882320aa5736108876894211907[m
+Author: Julia Taitz <juliataitz@gmail.com>
+Date:   Wed Jun 24 11:17:35 2015 -0400
+
+    Removed Sublime Terms
+
+[33mcommit b693f045cb745f0447c9c5a3e3139bea3ae46679[m
+Author: louisasm <ls3221@columbia.edu>
+Date:   Tue May 26 10:42:30 2015 -0400
+
+    fixed "forked" link
+
+[33mcommit c9f9cc6873a9df05ad18a65acd4ddb4d471a24b3[m
+Author: Beyonce Jabroni <labs+test-bot@flatironschool.com>
+Date:   Fri Apr 24 15:08:29 2015 -0400
+
+    Update README.md
+
+[33mcommit c758d362af66385f019958eb9a9c43493d9309ee[m
+Author: Jonathan Grover <hello@jonathangrover.com>
+Date:   Sun Apr 5 21:17:40 2015 -0400
+
+    correct typo
+
+[33mcommit fc3a5321009509869d711cd74683925a625e18b4[m
+Author: Beyonce Jabroni <labs+test-bot@flatironschool.com>
+Date:   Mon Mar 16 09:33:17 2015 -0400
+
+    dot learn added by fs-lms-bot
+
+[33mcommit c48dbd96c9262befc6e2fc7483db596adbd968a5[m
+Author: Jonathan Grover <hello@jonathangrover.com>
+Date:   Mon Jan 12 13:04:46 2015 -0500
+
+    Update README.md
+
+[33mcommit a9ee4bcec3db9913a67e2961c467aca0ac22d5c9[m
+Author: Jonathan Grover <hello@jonathangrover.com>
+Date:   Wed Jun 18 12:37:47 2014 -0400
+
+    Update README.md
+    
+    following up on logans correction I added border-top-color in one of locatipn in the readme (replacing color property)
+
+[33mcommit 49451067f43a673e13e0a69f4c85ed58b25f7368[m
+Author: Logan Hasson <logan.hasson@gmail.com>
+Date:   Tue Jun 10 13:56:05 2014 -0400
+
+    Fix incorrect css property
+
+[33mcommit 0e7c4d053b550ac9a59383a343956e8d965a0f96[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Mon Jun 2 11:08:54 2014 -0400
+
+    Adds a missing link
+
+[33mcommit ec9d2f604cffacedfeb40878e42a85e777c2c5c2[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 21:51:35 2014 -0400
+
+    fixed a broken link
+
+[33mcommit 08862f35876f81a06d89ffde373618a690316495[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 21:37:49 2014 -0400
+
+    finishes README
+
+[33mcommit af6d82172c14aa153b9f6d0b9d2855ac69d40e2c[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 20:25:53 2014 -0400
+
+    Update README.md
+
+[33mcommit 6e225ebe5f50042e4b70fe4a0cd868332306671f[m
+Merge: 1e0a50e 36f99b0
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 17:13:08 2014 -0400
+
+    Merge branch 'master' of github.com:flatiron-school-curriculum/my-little-rainbow
+
+[33mcommit 1e0a50efe685956abb5796d3901ba456b338a7c3[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 17:12:55 2014 -0400
+
+    finsihes basic setup for master branch
+
+[33mcommit 36f99b07a5c1c816d32025760d7fc5b2fc018401[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 15:24:28 2014 -0400
+
+    finishes html and css basics
+
+[33mcommit b4493a33dd4108e2163bdf06634fe4b494a3c960[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 12:48:31 2014 -0400
+
+    begins tutorial
+
+[33mcommit 04256b0b9956e76e984da25b6273d0b6f43b27c7[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 11:56:39 2014 -0400
+
+    changes the readme.md
+
+[33mcommit fab852d12434d6187d7430fa64766249222e4386[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 11:41:42 2014 -0400
+
+    adds text to readme
+
+[33mcommit 3f0abc1040a17c9e2fa4ad7a1c13db4feeb635be[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 11:29:41 2014 -0400
+
+    creates basic html structure
+
+[33mcommit 7e7348cababf4fa87500af7b66c6d7d850424344[m
+Author: Tristan Siegel <tristan.t.siegel@gmail.com>
+Date:   Thu May 29 11:17:20 2014 -0400
+
+    initial commit
